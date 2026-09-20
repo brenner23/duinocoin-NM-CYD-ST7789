@@ -1,0 +1,65 @@
+ Datentr„ger in Laufwerk E: ist HDD2TB DC-Stream&Data
+ Volumeseriennummer: BCB0-113A
+
+ Verzeichnis von e:\ESP32-C2_Portierung_V1_Fix 001\include\Fonts
+
+15.09.2026  10:18    <DIR>          .
+14.09.2026  23:49    <DIR>          ..
+03.09.2026  18:38            60.656 AGENCYB.TTF
+15.09.2026  10:16            11.590 AGENCYB10pt7b(1).h
+15.09.2026  10:16            11.590 AGENCYB10pt7b.h
+15.09.2026  10:16            14.692 AGENCYB12pt7b.h
+15.09.2026  10:16            15.316 AGENCYB13pt7b.h
+15.09.2026  10:16            17.048 AGENCYB14pt7b.h
+15.09.2026  10:16            18.128 AGENCYB15pt7b.h
+15.09.2026  10:16            21.248 AGENCYB16pt7b.h
+15.09.2026  10:16            23.116 AGENCYB17pt7b.h
+15.09.2026  10:16            25.138 AGENCYB18pt7b.h
+15.09.2026  10:16            26.890 AGENCYB19pt7b.h
+15.09.2026  10:16            28.918 AGENCYB20pt7b.h
+03.09.2026  18:54            44.034 AGENCYB25pt7b.h
+03.09.2026  18:53            62.360 AGENCYB30pt7b.h
+03.09.2026  18:54            62.360 AGENCYB30pt7b_1.h
+03.09.2026  18:53            82.675 AGENCYB35pt7b.h
+03.09.2026  18:53            82.675 AGENCYB35pt7b_1.h
+15.09.2026  10:17             6.323 AGENCYB3pt7b.h
+03.09.2026  18:53           103.851 AGENCYB40pt7b.h
+03.09.2026  18:53           128.834 AGENCYB45pt7b.h
+15.09.2026  10:17             6.767 AGENCYB4pt7b.h
+03.09.2026  18:53           157.520 AGENCYB50pt7b.h
+15.09.2026  10:17             6.996 AGENCYB5pt7b.h
+15.09.2026  10:17             8.027 AGENCYB6pt7b.h
+15.09.2026  10:17             8.867 AGENCYB7pt7b.h
+15.09.2026  10:17             9.533 AGENCYB8pt7b.h
+15.09.2026  10:17            10.815 AGENCYB9pt7b.h
+15.09.2026  10:18                 0 dir.txt
+15.09.2026  10:14            13.557 FreeSans10pt7b.h
+15.09.2026  10:14            15.395 FreeSans11pt7b.h
+15.09.2026  10:14            17.195 FreeSans12pt7b.h
+15.09.2026  10:14            19.471 FreeSans13pt7b.h
+15.09.2026  10:14            21.511 FreeSans14pt7b.h
+15.09.2026  10:14            23.713 FreeSans15pt7b.h
+15.09.2026  10:14            26.377 FreeSans16pt7b.h
+15.09.2026  10:13            28.843 FreeSans17pt7b.h
+15.09.2026  10:13            31.797 FreeSans18pt7b.h
+15.09.2026  10:13            34.757 FreeSans19pt7b.h
+15.09.2026  10:13            38.149 FreeSans20pt7b.h
+15.09.2026  10:14             6.409 FreeSans3pt7b.h
+15.09.2026  10:14             6.909 FreeSans4pt7b.h
+15.09.2026  10:14             7.730 FreeSans5pt7b.h
+15.09.2026  10:14             8.556 FreeSans6pt7b.h
+15.09.2026  10:14             9.592 FreeSans7pt7b.h
+15.09.2026  10:14            10.574 FreeSans8pt7b.h
+15.09.2026  10:14            12.134 FreeSans9pt7b.h
+05.03.2026  20:11            14.431 OCRA10pt7b.h
+05.03.2026  20:13            57.529 OCRA24pt7b.h
+13.09.2026  10:05             6.432 OCRA3pt7b.h
+13.09.2026  10:05             7.321 OCRA4pt7b.h
+13.09.2026  10:05             7.778 OCRA5pt7b.h
+13.09.2026  10:05             9.148 OCRA6pt7b.h
+13.09.2026  10:04             9.998 OCRA7pt7b.h
+13.09.2026  10:04            11.084 OCRA8pt7b.h
+13.09.2026  10:04            12.976 OCRA9pt7b.h
+14.09.2026  21:34                99 README_FONTS.txt
+              56 Datei(en),      1.525.432 Bytes
+               2 Verzeichnis(se), 1.009.410.179.072 Bytes frei
